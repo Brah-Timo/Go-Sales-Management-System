@@ -1,4 +1,4 @@
-# Gestion Commerciale Pro — نظام تسيير تجاري جزائري
+# Gestion Commerciale Pro — Algerian Sales Management System
 
 Système de gestion commerciale complet pour les **PME/TPE algériennes**.  
 Développé en **Go** avec interface graphique **Fyne v2** et base de données **SQLite** locale, embarqué et sans installation de serveur.
