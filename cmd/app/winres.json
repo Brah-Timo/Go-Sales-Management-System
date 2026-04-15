@@ -1,0 +1,28 @@
+{
+  "RT_GROUP_ICON": {
+    "#1": {
+      "": "icon.ico"
+    }
+  },
+  "RT_VERSION": {
+    "#1": {
+      "": {
+        "fixed": {
+          "file-version": "1.0.0.0",
+          "product-version": "1.0.0.0"
+        },
+        "info": {
+          "0409": {
+            "CompanyName": "Gestion Commerciale Pro",
+            "FileDescription": "Systeme de Gestion Commerciale Algerien",
+            "FileVersion": "1.0.0",
+            "LegalCopyright": "2024 Gestion Commerciale Pro",
+            "OriginalFilename": "gestion-commerciale.exe",
+            "ProductName": "Gestion Commerciale Pro",
+            "ProductVersion": "1.0.0"
+          }
+        }
+      }
+    }
+  }
+}
